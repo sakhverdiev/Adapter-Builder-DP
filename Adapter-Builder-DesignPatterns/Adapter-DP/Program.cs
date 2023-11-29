@@ -5,7 +5,6 @@
 
 namespace Adapter_DP;
 
-// Interface (sistemde isledilen struktur)
 interface IJsonSerializer
 {
     public string SerializeObject(object obj);
